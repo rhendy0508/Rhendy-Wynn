@@ -13,8 +13,6 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Rhendy Wynn | LinkedIn" width="22px" src= "https://www.linkedin.com/in/rhendy-wynn-586655281" />][linkedin]
-
-
+[<img align="left" alt="Rhendy Wynn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rhendy-wynn-586655281
