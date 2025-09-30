@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rhendy, an <a href="https://www.linkedin.com/in/rhendy-wynn-586655281" target="_blank" rel="noopener noreferrer">IT Professional</a>☺</h1>
+<h1>Hi, I'm Rhendy Wynn, an <a href="https://www.linkedin.com/in/rhendy-wynn-586655281" target="_blank" rel="noopener noreferrer">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
